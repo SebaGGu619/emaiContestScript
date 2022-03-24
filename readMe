@@ -1,0 +1,19 @@
+Hello and welcome to the readMe!
+
+The csv file should contain as many lines as you want but it HAS to contain 6 columns with the following information:
+
+Account Code, Sales Name, ELS, Discount, Destination Address, CC Address
+
+Also no spaces between the data and the commas.
+Example: NOT GOOD: 12345 , Dave John , ...
+             GOOD: 12345,Dave John, ...
+
+After that make sure to add your credentials and start the script!
+
+Don't forget to install the requirements from the file!
+
+Thanks for the read!
+
+
+
+~Made by B. Sebastian
